@@ -47,4 +47,4 @@ More detail
 
 We refer the interested users to the original conference paper for detailed algorithm, theoretial analysis, and performance evaluations.
 
-.. [Liberty2013] E. Liberty, "Simple and Deterministic Matrix Sketching", ACM SIGKDD, 2013. http://www.cs.yale.edu/homes/el327/papers/simpleMatrixSketching.pdf
+.. [Liberty2013]  Edo. Liberty, "Simple and Deterministic Matrix Sketching", ACM SIGKDD, 2013. http://www.cs.yale.edu/homes/el327/papers/simpleMatrixSketching.pdf
