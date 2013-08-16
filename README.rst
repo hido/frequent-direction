@@ -28,6 +28,19 @@ Run unit test
 ::
 
   $ python fd_sketch_test.py
+  
+Run USPS PCA sample
+===================
+
+Download the USPS hand-written image dataset from the following URL and extract the archived ``zip.train`` file into ``./data/elem/usps/``.
+http://www.ibis.t.u-tokyo.ac.jp/RyotaTomioka/Teaching/enshu13?action=AttachFile&do=get&target=zip.train.gz
+
+Then run the sample script and get the plot figures in ``result`` directory.
+
+::
+
+  $ mkdir result
+  $ python sample_usps_pca_rep.py
 
 More detail
 ===========
