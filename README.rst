@@ -8,8 +8,8 @@ Implementation of Frequent-Direction algorithm for efficient matrix sketching [L
 Usage
 =====
 
-Locate ``fd_sketch.py`` into your current directory.
-Then run following commands on pyton console:
+Locate ``fd_sketch.py`` on your current directory.
+Run the following commands on pyton console:
 
 ::
 
@@ -18,7 +18,7 @@ Then run following commands on pyton console:
   >>> a = np.random.randn(1000, 100)
   >>> b = fd_sketch.sketch(a, 150)
   >>> b
-  >>> fd_sketch.calculateErro(a, b)
+  >>> fd_sketch.calculateError(a, b)
 
 Run unit test
 =============
@@ -42,8 +42,8 @@ Then run the sample script and get the plot figures in ``result`` directory.
   $ mkdir result
   $ python sample_usps_pca_rep.py
 
-More detail
-===========
+More details
+============
 
 We refer the interested users to the original conference paper for detailed algorithm, theoretial analysis, and performance evaluations.
 
