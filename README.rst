@@ -2,7 +2,7 @@
 frequent-direction
 ==================
 
-Implementation of Frequent-Direction algorithm for efficient matrix sketching [Liberty2013]_ .
+Implementation of Frequent-directions algorithm for efficient matrix sketching [Liberty2013]_ .
 
 
 Usage
