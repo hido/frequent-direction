@@ -28,7 +28,7 @@ Run unit test
 ::
 
   $ python fd_sketch_test.py
-
+  
 Run USPS PCA sample
 ===================
 
